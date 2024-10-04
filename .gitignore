@@ -1,0 +1,4 @@
+aws-config.yaml
+
+#terraform
+**.terraform**
